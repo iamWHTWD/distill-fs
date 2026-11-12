@@ -1,0 +1,23 @@
+src/backend/chunkdb.rs
+  s_12eb77bd9ec1bc::t_52dee71cf23b05 467-468,476-477,699-702
+src/backend/chunkdb/tests.rs
+  s_12eb77bd9ec1bc::t_3b68f75fafd99f 105-108
+  s_12eb77bd9ec1bc::t_cbde93a565035d 67-79,82-91,95-104,109-116
+  s_12eb77bd9ec1bc::t_10a46994868b20 80-81,92-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "38ecca607291e3e89c3817ebea53a2b140318f3d",
+  "prompts": {},
+  "sessions": {
+    "s_12eb77bd9ec1bc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f19-54fd-7f73-8c69-dc8ce5c94dcc",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
